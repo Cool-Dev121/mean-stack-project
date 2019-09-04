@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "profile.component.sass"
+    ],
+    "names": [],
+    "file": "profile.component.css"
+}
